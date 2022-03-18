@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **pnjrmdn/pnjrmdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Language ever used:
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: instagram-> pnj.rmdn
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Time is currency
--->
+
