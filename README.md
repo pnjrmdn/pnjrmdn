@@ -7,7 +7,7 @@
 - Phyton  -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pnjrmdn)](https://github.com/pnjrmdn/github-readme-stats)
-[![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&layout=compact)
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&layout=compact)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Telkom Company
