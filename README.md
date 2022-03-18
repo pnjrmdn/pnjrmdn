@@ -6,8 +6,6 @@
 - Java
 - Phyton  -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pnjrmdn)](https://github.com/pnjrmdn/github-readme-stats)
 ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&layout=compact)
 
 Here are some ideas to get you started:
@@ -19,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: instagram-> pnj.rmdn
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Time is currency
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pnjrmdn)](https://github.com/pnjrmdn/github-readme-stats)
 
