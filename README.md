@@ -6,7 +6,7 @@
 - Java
 - Phyton  -->
 
-![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viody75&layout=compact)
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&layout=compact)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Telkom Company
