@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with library/framework/documentation
 - 💬 Ask me about multimedia and technology
-- 📫 How to reach me: instagram-> pnj.rmdn
+- 📫 How to reach me: instagram-> panji_ramadanu
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Time is currency
 
