@@ -1,4 +1,4 @@
-### Hi there my name is Panji Ramadanu 👋
+### Hi there my name is Panji Ramadan 👋
 
 <!-- Language ever used:
 - Javascript : JQuery, AJAX, Nodejs, Panolensjs, Threejs
