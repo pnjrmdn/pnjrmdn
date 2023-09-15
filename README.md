@@ -37,6 +37,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=10&hide=css,xslt,blade,cmake,cython)
+![pnjrmdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnjrmdn&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Company
