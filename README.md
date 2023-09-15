@@ -1,7 +1,7 @@
 # Hi there my name is Panji Ramadanu 👋 Connect with me on <a href="https://www.linkedin.com/in/panji-ramadan-since2016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="drawing" width="100"/>
 
 
-## Programming Languages:
+> ## Programming Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -10,13 +10,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/ShellScript-000000?style=flat-square&logo=linux&logoColor=white)
 
-## Databases:
+> ## Databases:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-## Frameworks:
+> ## Frameworks:
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
@@ -36,4 +36,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=9&theme=radical&hide=css,xslt,blade,cmake,cython,c) 
 
-> source icon badge : https://github.com/alexandresanlim/Badges4-README.md-Profile
+<!-- source icon badge : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
