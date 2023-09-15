@@ -1,6 +1,6 @@
 ### Hi there my name is Panji Ramadanu 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=8))]
 
 
 ## Languages:
