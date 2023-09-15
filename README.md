@@ -1,6 +1,6 @@
-### Hi there my name is Panji Ramadanu 👋 Connect with me on <a href="https://www.linkedin.com/in/panji-ramadan-since2016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="drawing" width="100"/>
+### Hi there my name is Panji Ramadanu 👋 Connect with me on 
+Apakah <a href="https://www.linkedin.com/in/panji-ramadan-since2016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="drawing" width="100"/>
 
-![Linkedin](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Linkedin&logoColor=white)
 
 
 ## Languages:
