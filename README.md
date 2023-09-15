@@ -1,7 +1,6 @@
 ### Hi there my name is Panji Ramadanu 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=10)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=10)
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=flat-square&logo=html5&logoColor=white)
