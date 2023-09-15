@@ -1,4 +1,4 @@
-# Hi there my name is Panji Ramadanu 👋 Connect with me on <a href="https://www.linkedin.com/in/panji-ramadan-since2016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="drawing" width="100"/>
+# Hi there my name is Panji Ramadanu 👋 Connect with me on <a href="https://www.linkedin.com/in/panji-ramadan-since2016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="drawing" width="100"/>
 
 ![pnjrmdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnjrmdn&show_icons=true&theme=radical)
 
@@ -38,6 +38,9 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-squarelogo=Cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+![powerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=5&theme=radical&hide=css,xslt,blade,cmake,cython&size_weight=0.3&count_weight=0.1) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=5&theme=radical&hide=css,xslt,blade,cmake,cython,python,php,html,jupyter%20notebook,javascript) 
