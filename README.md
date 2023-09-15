@@ -1,6 +1,6 @@
 # Hi there my name is Panji Ramadanu 👋 Connect with me on <a href="https://www.linkedin.com/in/panji-ramadan-since2016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="drawing" width="100"/>
 
-https://github.com/alexandresanlim/Badges4-README.md-Profile
+//https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 
 ## Programming Languages:
