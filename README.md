@@ -1,6 +1,6 @@
 ### Hi there my name is Panji Ramadanu 👋
 
-![pnjrmdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasfuulk&show_icons=true&theme=radical)
+![pnjrmdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasfulk&show_icons=true&theme=radical)
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=flat-square&logo=html5&logoColor=white)
