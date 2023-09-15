@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&hide=javascript,html)
 
-![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasfulk&layout=compact)
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&layout=compact)
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=flat-square&logo=html5&logoColor=white)
