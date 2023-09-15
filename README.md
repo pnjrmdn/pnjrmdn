@@ -36,6 +36,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=5&theme=radical&hide=css,xslt,blade,cmake,cython) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=5&theme=radical&hide=css,xslt,blade,cmake,cython,python,php,html,jupyter,notebook,javascript) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=5&theme=radical&hide=css,xslt,blade,cmake,cython,python,php,html,jupyter%20notebook,javascript) 
 
 <!-- source icon badge : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
