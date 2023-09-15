@@ -1,7 +1,5 @@
 # Hi there my name is Panji Ramadanu 👋 Connect with me on <a href="https://www.linkedin.com/in/panji-ramadan-since2016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="drawing" width="100"/>
 
-//https://github.com/alexandresanlim/Badges4-README.md-Profile
-
 
 ## Programming Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=flat-square&logo=html5&logoColor=white)
@@ -38,4 +36,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=9&theme=radical&hide=css,xslt,blade,cmake,cython,c) 
 
-
+source icon badge : https://github.com/alexandresanlim/Badges4-README.md-Profile
