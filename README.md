@@ -43,6 +43,6 @@
 ![powerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=5&theme=radical&hide=css,xslt,blade,cmake,cython&size_weight=0.3&count_weight=0.1) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=5&theme=radical&hide=css,xslt,blade,cmake,cython,python,php,html,jupyter%20notebook,javascript&size_weight=0.3&count_weight=0.1) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnjrmdn&langs_count=5&theme=radical&hide=css,xslt,blade,cmake,cython,python,php,html,jupyter%20notebook,javascript&size_weight=0.3&count_weight=0.1&custom_title=ㅤ) 
 
 <!-- source icon badge : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
